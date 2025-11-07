@@ -8,7 +8,7 @@
 
 ## 🖼️ Dashboard Preview
 <p align="center">
-  <img src="(https://github.com/dimpalpatil06/Blinkit-Dashboard/blob/main/Dashboard.png)"  width="800"/>
+  <img src=(https://github.com/dimpalpatil06/Blinkit-Dashboard/blob/main/Dashboard.png)  width="800"/>
 </p>
 
 ---
