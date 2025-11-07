@@ -6,12 +6,6 @@
 
 ---
 
-## 🖼️ Dashboard Preview
-<p align="center">
-  <img src=(https://github.com/dimpalpatil06/Blinkit-Dashboard/blob/main/Dashboard.png)  width="800"/>
-</p>
-
----
 
 ## 🧠 Overview
 The **Blinkit Dashboard** is an interactive and analytical visualization project built using **Power BI**.  
